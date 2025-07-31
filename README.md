@@ -26,6 +26,13 @@
 </div>
   </div>
 
+<div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReizeXD/ReizeXD/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReizeXD/ReizeXD/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReizeXD/ReizeXD/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 ###
 
 <h2 align="left">💻 Tecnologias e Linguagens</h2>
