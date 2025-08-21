@@ -33,7 +33,7 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReizeXD/ReizeXD/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-###
+
 
 <h2 align="left">💻 Tecnologias e Linguagens</h2>
 
